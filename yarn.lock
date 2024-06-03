@@ -10344,10 +10344,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ramda@npm:0.28.0":
-  version: 0.28.0
-  resolution: "ramda@npm:0.28.0"
-  checksum: 44ea6e5010bba70151b6a92d8114a91915e8b5a16105cce65fae58c9d7386b812c429645e35f21141d7087568550ce383bc10ee1a65cdec951f4b69ea457e6a4
+"ramda@npm:0.30.1":
+  version: 0.30.1
+  resolution: "ramda@npm:0.30.1"
+  checksum: ce6f4b6b967a84a4e65c01ab1b1cdd73d46b8efe71aeccf5d1443c56c4e31a0ea82ece7df6510453dd3d83b92cabf8a6b4d50d189a1b35c08a6f44b281bebf79
   languageName: node
   linkType: hard
 
@@ -10553,7 +10553,7 @@ __metadata:
     immer: 10.0.2
     lodash: 4.17.21
     patronum: 1.14.2
-    ramda: 0.28.0
+    ramda: 0.30.1
     react: 18.2.0
     react-dom: 18.2.0
     react-scripts: 5.0.1
