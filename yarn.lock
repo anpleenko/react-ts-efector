@@ -4772,10 +4772,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dayjs@npm:1.11.7":
-  version: 1.11.7
-  resolution: "dayjs@npm:1.11.7"
-  checksum: 5003a7c1dd9ed51385beb658231c3548700b82d3548c0cfbe549d85f2d08e90e972510282b7506941452c58d32136d6362f009c77ca55381a09c704e9f177ebb
+"dayjs@npm:1.11.12":
+  version: 1.11.12
+  resolution: "dayjs@npm:1.11.12"
+  checksum: 40a4f67c2df3af125ae0ddec68d3a6d806d3009a7414bf45479aaf82f1dd82f3e139e6642e72391abccc37488897830c56afcabb4c819014130d283644df8128
   languageName: node
   linkType: hard
 
@@ -10547,7 +10547,7 @@ __metadata:
     "@types/lodash": 4.14.191
     "@types/react": 18.0.27
     "@types/react-dom": 18.0.11
-    dayjs: 1.11.7
+    dayjs: 1.11.12
     effector: 22.5.0
     effector-react: 22.4.0
     immer: 10.0.2
