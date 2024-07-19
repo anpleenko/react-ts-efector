@@ -9245,12 +9245,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"patronum@npm:1.14.2":
-  version: 1.14.2
-  resolution: "patronum@npm:1.14.2"
+"patronum@npm:2.2.0":
+  version: 2.2.0
+  resolution: "patronum@npm:2.2.0"
   peerDependencies:
-    effector: ^22.1.2
-  checksum: 60f816741adc78cae324cb253503260e14d568252c55198d8d431b344518c365e210951e4c330756612fd1276a64e75c2af358c113305363d2aacf626880e027
+    effector: ^23
+  checksum: 57141228b5044efd98086e5afcbecd26ab4a791bb1e7c829b9ee6c965aff4428a09d40b96dded4754a4567afbd9346e9ad18a6c480b3c0c1e0295cf2114ada96
   languageName: node
   linkType: hard
 
@@ -10552,7 +10552,7 @@ __metadata:
     effector-react: 22.4.0
     immer: 10.0.2
     lodash: 4.17.21
-    patronum: 1.14.2
+    patronum: 2.2.0
     ramda: 0.28.0
     react: 18.2.0
     react-dom: 18.2.0
